@@ -1,3 +1,4 @@
 Puedes ver esto?
 Yessss jaja
 Listo
+Asi se utiliza git de manera basica XD, ya solo hay que ver las ramas de trabajo y al final hacer un merge
